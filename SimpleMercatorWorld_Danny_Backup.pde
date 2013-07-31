@@ -49,4 +49,3 @@ void draw() {
   newYork.y = newYork.y + 0.1;  
 }
 
-SimpleMercatorWorld_Danny_Backup.
